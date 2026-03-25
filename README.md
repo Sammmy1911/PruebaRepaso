@@ -1,5 +1,5 @@
 https://docukelo-icesi.onrender.com/docs/computacion-2/semana-5/jpa
-
+./mvnw clean spring-boot:run
 
 
 
