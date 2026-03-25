@@ -1,5 +1,5 @@
 https://docukelo-icesi.onrender.com/docs/computacion-2/semana-5/jpa
-
+https://github.com/Kelocoes/compunet2-202601/blob/week-5/course-finish/src/main/java/com/example/demo/model/User.java#L5
 
 Ejercicios de JPA con Query Methods
 Introducción breve y referencias
